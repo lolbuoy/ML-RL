@@ -33,3 +33,5 @@ pip install -r requirements.txt
 
 # Rewards vs No. of Episodes
 ![Rewards vs No. of Episodes](convergence.png)
+# Source 
+https://aleksandarhaber.com/q-learning-in-python-with-tests-in-cart-pole-openai-gym-environment-reinforcement-learning-tutorial/
