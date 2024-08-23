@@ -31,5 +31,5 @@ pip install -r requirements.txt
    ```
 
 
-   #Rewards vs No. of Episodes
+# Rewards vs No. of Episodes
 ![Rewards vs No. of Episodes](convergence.png)
