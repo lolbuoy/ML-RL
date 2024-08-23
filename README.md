@@ -2,7 +2,6 @@
 
 This project demonstrates the implementation of Q-learning in the Cart-Pole environment using Python. The Cart-Pole problem is a classic reinforcement learning task where the objective is to balance a pole on a cart by applying forces to the cart.
 
-![Cart-Pole Environment](placeholder-image.jpg)
 
 ## Project Structure
 
@@ -30,3 +29,4 @@ pip install -r requirements.txt
    ```
    python driverCode.py
    ```
+![Rewards vs No. of Episodes](convergence.png)
