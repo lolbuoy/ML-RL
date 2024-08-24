@@ -15,4 +15,14 @@ The model is currently overfitting. Performance can be enhanced through:
 - Architecture modifications
 - Hyperparameter tuning
 
-Contributions welcome to improve the model's generalization and test accuracy.
+## Run the main script:
+   ```
+   python script_name.py --mode train
+
+   ```
+OR
+  ```
+  python image_class.py --mode test --weights cifar10_weights.h5
+  ```
+# Loss and Accuracy(training) vs Iterations
+  ![Loss and Accuracy(training) vs Iterations](training_history.png)
