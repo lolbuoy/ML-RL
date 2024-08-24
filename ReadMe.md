@@ -17,7 +17,7 @@ The model is currently overfitting. Performance can be enhanced through:
 
 ## Run the main script:
    ```
-   python script_name.py --mode train
+   python image_class.py --mode train
 
    ```
 OR
